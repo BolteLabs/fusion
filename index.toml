@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitignore"
-hash = "3c1e2e4b2bee84075b2784fb0a74306443b8c3736586d218be10cb4443a12a7f"
-
-[[files]]
 file = "config/bbm/AI_Improvements.cfg"
 hash = "b1e8dcc66ffc0f711e1ad5ae88a58ac093c93508d975ce7eb0ef04aea0052258"
 
@@ -116,10 +112,6 @@ hash = "1d456698d2db74e2b72a65af4d96edacb564f753eb47029f5075df4c38577be8"
 [[files]]
 file = "optionsshaders.txt"
 hash = "1e67b68a5c7a0c8b0812dcebb67376bafe2c85d718c78028d4db5ee27518809b"
-
-[[files]]
-file = "packwiz.exe"
-hash = "c4a0ef0ea1ee65c6cf70c8ceae44f5a788b3ecfd2653c4206b9e62ff8169e7f9"
 
 [[files]]
 file = "resources/fusion/logo.png"
