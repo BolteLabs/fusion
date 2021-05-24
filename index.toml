@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gitignore"
+hash = "3c1e2e4b2bee84075b2784fb0a74306443b8c3736586d218be10cb4443a12a7f"
+
+[[files]]
 file = "config/bbm/AI_Improvements.cfg"
 hash = "b1e8dcc66ffc0f711e1ad5ae88a58ac093c93508d975ce7eb0ef04aea0052258"
 
@@ -34,7 +38,7 @@ hash = "794fba2b02350e5bec09c251f4400457848d8fcdc340b11ee07efb189f83d1cc"
 
 [[files]]
 file = "config/phosphor.json"
-hash = "4b27c6215105458d0910d8b3a994bec33c0c2bb1ab34e5fd5a48489f2b84dfda"
+hash = "ce39e7185ab9d74413b467bb79b4216c0a79ed49fa57ae6e7aff0c2fc20334dc"
 
 [[files]]
 file = "config/splash.properties"
@@ -58,47 +62,47 @@ hash = "0a583eb8a8f4e8f797e965fdecb5d72ec4d33fc7e8d6002a82a4e62d35abe9c2"
 
 [[files]]
 file = "mods/ai-improvements.toml"
-hash = "f6feaaf50b1c0adadf6edb865c246985aae4cd2dd373ff14d7d40617a693d855"
+hash = "0ff98813b96a725e1660a35b9995982bc09a57769ffa6e0ce7afc0932befbc1b"
 metafile = true
 
 [[files]]
 file = "mods/betterfps.toml"
-hash = "ad54cddb921f8cb3d737cee7eb078a64afc3d32e71e762c65c60660fd72bc69d"
+hash = "ac923f91836a5976499eaad730dcaf31e22cbed9588d5c4ba295f52c547c8311"
 metafile = true
 
 [[files]]
 file = "mods/foamfix-optimization-mod.toml"
-hash = "4ff3d369ddb59e9a15a3ee27f3cf422a70c6d416d990982405f37cd3eaec71b0"
+hash = "9cb46fb65d1624801793c1c07f6501069841ae062a873d50afcedd18b74df27e"
 metafile = true
 
 [[files]]
 file = "mods/moddirector.toml"
-hash = "d1b10016ad671bd434ee079cad0dabf98fc84ca1f4b0e076f3ae4775c645b04a"
+hash = "51aeddccd0eb18cd9bbc4c144398541719f22c6ababe59f9dcbf9003a57ccf2d"
 metafile = true
 
 [[files]]
 file = "mods/multithreaded-noise.toml"
-hash = "750dc7990bea8794179c886e3de1f7fb11355f6ce1aa2e797d72c0f8d9e41726"
+hash = "b3dcf25855c8ab1cd5767454eaeccc2603e3d3317babfd8062f10eb5bf6a9613"
 metafile = true
 
 [[files]]
 file = "mods/performant.toml"
-hash = "19970e8a5983a27eb3df2b24ff6e6709761e9ea0d4c89faaf451f6903fa066f5"
+hash = "34d850fd86bbf037b5d161676c90d643441d404eef369450787c974be0b1be8e"
 metafile = true
 
 [[files]]
 file = "mods/phosphor-forge.toml"
-hash = "414c86590cf1c323ecc6c231225fb414dde8c485224e03a35a67f9ee20c23b23"
+hash = "26fbdc04f5129649b80613a17d1f2fad8a49b00e2d0d181a71093c328f5eca6a"
 metafile = true
 
 [[files]]
 file = "mods/surge.toml"
-hash = "f9ed03a5878d4dc86fd19bc1ab0657425d5f3fdbdc3011e49852a7ce2ac2f5bb"
+hash = "e8890e9a9dcd31197ef9ae3bfe5e0a87cc2b0820d2116b8bd62c79d1308212ae"
 metafile = true
 
 [[files]]
 file = "mods/vanillafix.toml"
-hash = "2e63937b2fc07197c86bb2502d04c9b8681aede59d8071fa51388292ef5404ee"
+hash = "5509f1aeddcf849cbc5a270ae19fd2d29a514b756465869af36b1055af56a8dc"
 metafile = true
 
 [[files]]
@@ -114,8 +118,8 @@ file = "optionsshaders.txt"
 hash = "1e67b68a5c7a0c8b0812dcebb67376bafe2c85d718c78028d4db5ee27518809b"
 
 [[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+file = "packwiz.exe"
+hash = "c4a0ef0ea1ee65c6cf70c8ceae44f5a788b3ecfd2653c4206b9e62ff8169e7f9"
 
 [[files]]
 file = "resources/fusion/logo.png"
