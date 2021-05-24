@@ -1,0 +1,130 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/bbm/AI_Improvements.cfg"
+hash = "b1e8dcc66ffc0f711e1ad5ae88a58ac093c93508d975ce7eb0ef04aea0052258"
+
+[[files]]
+file = "config/betterfps.json"
+hash = "77372bd99009982d0cb12f2c870a20706813750374237d7cb1f28376e8d46d40"
+
+[[files]]
+file = "config/foamfix.cfg"
+hash = "b1907eb164a6f8eaa5cd98e74cf302aeb0ae62f6eed906d7d513c05a54938e0f"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "2a31f2ad857cdb89a2ac5a478ccb6cf189e6dc3761fffb58ac75b9934a60a5a3"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "74454f64f7a181b28c322b7b22f5afdb8d22222f8e6d8fa40aa7f8eab7b779b1"
+
+[[files]]
+file = "config/mod-director/modpack.json"
+hash = "c041be6ab160315ef49935ae4a9e7eaad80fc695579091a0de841eb637e15a3c"
+
+[[files]]
+file = "config/mod-director/optifine.url.json"
+hash = "e02eb75c6c5b535d99fa8f7436a6b26f6c4a3a75d99cb3a83b36c9d108b775aa"
+
+[[files]]
+file = "config/performant.cfg"
+hash = "794fba2b02350e5bec09c251f4400457848d8fcdc340b11ee07efb189f83d1cc"
+
+[[files]]
+file = "config/phosphor.json"
+hash = "4b27c6215105458d0910d8b3a994bec33c0c2bb1ab34e5fd5a48489f2b84dfda"
+
+[[files]]
+file = "config/splash.properties"
+hash = "f908b1e696f7cc5baa4ac811ee9d3cb8182da5e3621c23913fef593b237e51bc"
+
+[[files]]
+file = "config/surge.cfg"
+hash = "b716388ce1514fdb76749312c7c82649413e85b0364c584d68e88574c5afd27d"
+
+[[files]]
+file = "config/vanillafix.cfg"
+hash = "d48971c2304cc938767e066dd49b0332ee294603f496bf6500dcd06336081888"
+
+[[files]]
+file = "config/vanillafix/config_version"
+hash = "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+
+[[files]]
+file = "config/vanillafix/methods-stable_39.csv"
+hash = "0a583eb8a8f4e8f797e965fdecb5d72ec4d33fc7e8d6002a82a4e62d35abe9c2"
+
+[[files]]
+file = "mods/ai-improvements.toml"
+hash = "f6feaaf50b1c0adadf6edb865c246985aae4cd2dd373ff14d7d40617a693d855"
+metafile = true
+
+[[files]]
+file = "mods/betterfps.toml"
+hash = "ad54cddb921f8cb3d737cee7eb078a64afc3d32e71e762c65c60660fd72bc69d"
+metafile = true
+
+[[files]]
+file = "mods/foamfix-optimization-mod.toml"
+hash = "4ff3d369ddb59e9a15a3ee27f3cf422a70c6d416d990982405f37cd3eaec71b0"
+metafile = true
+
+[[files]]
+file = "mods/moddirector.toml"
+hash = "d1b10016ad671bd434ee079cad0dabf98fc84ca1f4b0e076f3ae4775c645b04a"
+metafile = true
+
+[[files]]
+file = "mods/multithreaded-noise.toml"
+hash = "750dc7990bea8794179c886e3de1f7fb11355f6ce1aa2e797d72c0f8d9e41726"
+metafile = true
+
+[[files]]
+file = "mods/performant.toml"
+hash = "19970e8a5983a27eb3df2b24ff6e6709761e9ea0d4c89faaf451f6903fa066f5"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-forge.toml"
+hash = "414c86590cf1c323ecc6c231225fb414dde8c485224e03a35a67f9ee20c23b23"
+metafile = true
+
+[[files]]
+file = "mods/surge.toml"
+hash = "f9ed03a5878d4dc86fd19bc1ab0657425d5f3fdbdc3011e49852a7ce2ac2f5bb"
+metafile = true
+
+[[files]]
+file = "mods/vanillafix.toml"
+hash = "2e63937b2fc07197c86bb2502d04c9b8681aede59d8071fa51388292ef5404ee"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "a1f669652e9178aa39137acc2e2ad70e73145cfd2280168fc6e056ef8c636cdd"
+
+[[files]]
+file = "optionsof.txt"
+hash = "1d456698d2db74e2b72a65af4d96edacb564f753eb47029f5075df4c38577be8"
+
+[[files]]
+file = "optionsshaders.txt"
+hash = "1e67b68a5c7a0c8b0812dcebb67376bafe2c85d718c78028d4db5ee27518809b"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "resources/fusion/logo.png"
+hash = "98f9b04841bfffef9075faac8b0c2fb6582d1dced7dc1bed07caa94b3bfa329a"
+
+[[files]]
+file = "shaderpacks/BSL_v7.1.05p1.zip"
+hash = "10272e685a6d184f73c37a605921341872f17dc1602d243cf16725e5fa48161e"
+
+[[files]]
+file = "shaderpacks/BSL_v7.1.05p1.zip.txt"
+hash = "e7bfce83c7594b78baa21775e4a8dc73c96faac79ba53f7540be4b52b759e7d6"

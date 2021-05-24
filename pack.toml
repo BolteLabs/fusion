@@ -1,0 +1,12 @@
+name = "Fusion"
+author = "Bolte"
+version = "0.0.1"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "31f274f27ccfd69557c4bdd85bdfe08291652bac06bc440659232d95b14da11b"
+
+[versions]
+forge = "14.23.0.2486"
+minecraft = "1.12.2"

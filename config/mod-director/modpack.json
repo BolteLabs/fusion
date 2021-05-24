@@ -1,0 +1,8 @@
+{
+    "packName": "Fusion",
+    "icon": {
+        "path": "resources/fusion/logo.png",
+        "width": 128,
+        "height": 128
+    }
+}
