@@ -1,0 +1,23 @@
+## Main Branch
+
+_MMC_TEMP/
+instgroups.json
+coremods/
+screenshots/
+shaderpacks/
+usercache.json
+usernamecache.json
+packwiz.exe
+pack.toml
+index.toml
+.packwizignore
+options.txt
+optionsof.txt
+optionsshaders.txt
+.packignore
+resources
+mods
+config
+
+## Pages Branch
+
