@@ -93,11 +93,6 @@ hash = "f7b5fbc4bfcc0564b66e0855170d7de9b9c08d7f742a9e132c0f7020c958b56b"
 metafile = true
 
 [[files]]
-file = "mods/vanillafix.toml"
-hash = "8180e722490cacd569d00f5c83f6556cc3201f94ca6ec54dbe3a00ca9ec4940c"
-metafile = true
-
-[[files]]
 file = "options.txt"
 hash = "22685b819d226c572710f23f159d205dbac178062db048e705bcf0aecef83883"
 
