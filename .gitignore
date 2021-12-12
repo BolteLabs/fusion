@@ -1,3 +1,5 @@
 ## Pages Branch
 _MMC_TEMP/
 packwiz.exe
+node_modules/
+package.json

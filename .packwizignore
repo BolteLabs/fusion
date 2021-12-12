@@ -3,3 +3,5 @@
 .gitignore
 .gitattributes
 packwiz.exe
+node_modules
+package.json
