@@ -1,6 +1,6 @@
 name = "Foam​Fix"
 filename = "foamfix-0.10.14-1.12.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3327/893/foamfix-0.10.14-1.12.2.jar"
