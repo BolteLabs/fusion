@@ -2,4 +2,5 @@
 _MMC_TEMP/
 packwiz.exe
 node_modules/
+node/
 package.json

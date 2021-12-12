@@ -4,4 +4,5 @@
 .gitattributes
 packwiz.exe
 node_modules
+node
 package.json
