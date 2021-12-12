@@ -68,11 +68,6 @@ hash = "26f80d1dd1faa9d9f3f2676b312c4a409c5fd41fcf3045a41b6ddc80c181a02a"
 metafile = true
 
 [[files]]
-file = "mods/mixin-0-7-0-8-compatibility.toml"
-hash = "188b5c69f32cd116ab35f7fbaa2bbd990e3a5e1c96da8d382073b44a3120e63a"
-metafile = true
-
-[[files]]
 file = "mods/multithreaded-noise.toml"
 hash = "007edcfdd152ef5189f6d8c731c0c97efe750600ca82e861a0ab4f3a7be6d9f9"
 metafile = true
