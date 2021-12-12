@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-0-7-0-8-compatibility.toml"
-hash = "b6d7269b77019439419ff6ac207bc1a8f7dd410f36343185fec10694a5b28b08"
+hash = "3d3da2b74324281b048def8be93294b0e6f159d0cf0fd8ff9ad27353bc057f8f"
 metafile = true
 
 [[files]]
