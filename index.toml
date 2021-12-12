@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/foamfix-optimization-mod.toml"
-hash = "26f80d1dd1faa9d9f3f2676b312c4a409c5fd41fcf3045a41b6ddc80c181a02a"
+hash = "2ffb84b78edba5e76151a2c8810b28a76f3d4bcef7c9a868940b41c2c42167a8"
 metafile = true
 
 [[files]]
