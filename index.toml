@@ -68,13 +68,38 @@ hash = "26f80d1dd1faa9d9f3f2676b312c4a409c5fd41fcf3045a41b6ddc80c181a02a"
 metafile = true
 
 [[files]]
+file = "mods/mixin-0-7-0-8-compatibility.toml"
+hash = "b6d7269b77019439419ff6ac207bc1a8f7dd410f36343185fec10694a5b28b08"
+metafile = true
+
+[[files]]
 file = "mods/multithreaded-noise.toml"
 hash = "007edcfdd152ef5189f6d8c731c0c97efe750600ca82e861a0ab4f3a7be6d9f9"
 metafile = true
 
 [[files]]
+file = "mods/optifine-albehero.toml"
+hash = "272bc84af63d391323b971316bca83fffb9a1da7cde059d989d781052ea80c9a"
+metafile = true
+
+[[files]]
+file = "mods/performant.toml"
+hash = "21cc1a7ee3b088b87b5a5325ab179df0e2550792bcaeed5cdbe191f03a7a9c79"
+metafile = true
+
+[[files]]
 file = "mods/phosphor-forge.toml"
 hash = "028a1ed19515278abf1084316404866c0f67e155c3f67f103cf9f69c88452dd9"
+metafile = true
+
+[[files]]
+file = "mods/surge.toml"
+hash = "f7b5fbc4bfcc0564b66e0855170d7de9b9c08d7f742a9e132c0f7020c958b56b"
+metafile = true
+
+[[files]]
+file = "mods/vanillafix.toml"
+hash = "8180e722490cacd569d00f5c83f6556cc3201f94ca6ec54dbe3a00ca9ec4940c"
 metafile = true
 
 [[files]]
