@@ -1,2 +1,115 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "config/bbm/AI_Improvements.cfg"
+hash = "6f5906deab8573023f5b5c34c4979f182e24187350b6c053ffa8035c3fe4d1f0"
+
+[[files]]
+file = "config/fastbench.cfg"
+hash = "a26f49d7f948b89f125b7a5a110445029a683a33be2d7d3ed2d7eb130ce0c8a8"
+
+[[files]]
+file = "config/foamfix.cfg"
+hash = "c145605ffe0439030d3007bc334f978a209cbcea49829eac553881f699a11054"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "276d4c12505c9871d2d8c56100bdbef496aef92d248e1a55b26b568675678f20"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "95b66df0da7df0be35ccbc51ad08962b7ddba14f593f0428096547d67fed2378"
+
+[[files]]
+file = "config/performant.cfg"
+hash = "0f1af1fd95f5624e37be5dc22dfb3eae9d5c27989de8dded1d92c9b791e4bd15"
+
+[[files]]
+file = "config/phosphor.json"
+hash = "4b27c6215105458d0910d8b3a994bec33c0c2bb1ab34e5fd5a48489f2b84dfda"
+
+[[files]]
+file = "config/splash.properties"
+hash = "48a21a9ce28f40c7bd4fcddcd8bee7e14b2b3df47bf583bb69f85774e3836d50"
+
+[[files]]
+file = "config/surge.cfg"
+hash = "b716388ce1514fdb76749312c7c82649413e85b0364c584d68e88574c5afd27d"
+
+[[files]]
+file = "config/vanillafix.cfg"
+hash = "ff639643176995c7b2faca05e96c24dbe89befc54719bb958180fe8660165b70"
+
+[[files]]
+file = "config/vanillafix/config_version"
+hash = "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+
+[[files]]
+file = "config/vanillafix/methods-stable_39.csv"
+hash = "0a583eb8a8f4e8f797e965fdecb5d72ec4d33fc7e8d6002a82a4e62d35abe9c2"
+
+[[files]]
+file = "icon.png"
+hash = "c3122c3f35cf94a5dd6cfc426a7f2e3d1a095a89da7283a82be75288ec763cd1"
+
+[[files]]
+file = "mods/ai-improvements.toml"
+hash = "0eb176e40267bae446449c194e67f181582a47c9fa029fff8a58285edd55e14d"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.toml"
+hash = "d987b630e0fcb06447a1525d00e70f03858ec149778bb8a7e50e66a839189ced"
+metafile = true
+
+[[files]]
+file = "mods/foamfix-optimization-mod.toml"
+hash = "26f80d1dd1faa9d9f3f2676b312c4a409c5fd41fcf3045a41b6ddc80c181a02a"
+metafile = true
+
+[[files]]
+file = "mods/mixin-0-7-0-8-compatibility.toml"
+hash = "188b5c69f32cd116ab35f7fbaa2bbd990e3a5e1c96da8d382073b44a3120e63a"
+metafile = true
+
+[[files]]
+file = "mods/multithreaded-noise.toml"
+hash = "007edcfdd152ef5189f6d8c731c0c97efe750600ca82e861a0ab4f3a7be6d9f9"
+metafile = true
+
+[[files]]
+file = "mods/optifine-albehero.toml"
+hash = "272bc84af63d391323b971316bca83fffb9a1da7cde059d989d781052ea80c9a"
+metafile = true
+
+[[files]]
+file = "mods/performant.toml"
+hash = "21cc1a7ee3b088b87b5a5325ab179df0e2550792bcaeed5cdbe191f03a7a9c79"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-forge.toml"
+hash = "028a1ed19515278abf1084316404866c0f67e155c3f67f103cf9f69c88452dd9"
+metafile = true
+
+[[files]]
+file = "mods/surge.toml"
+hash = "f7b5fbc4bfcc0564b66e0855170d7de9b9c08d7f742a9e132c0f7020c958b56b"
+metafile = true
+
+[[files]]
+file = "mods/vanillafix.toml"
+hash = "8180e722490cacd569d00f5c83f6556cc3201f94ca6ec54dbe3a00ca9ec4940c"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "22685b819d226c572710f23f159d205dbac178062db048e705bcf0aecef83883"
+
+[[files]]
+file = "optionsof.txt"
+hash = "1ef12164666745402b6d6bec11bdf5c7905b6193cbe29c1dc8c09d1f6b1ba4fb"
+
+[[files]]
+file = "optionsshaders.txt"
+hash = "2a0f4b34c9589fa0fed61420ea588d89c796872f6359be6e3f22952b193560a1"

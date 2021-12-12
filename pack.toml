@@ -1,13 +1,13 @@
-name = "Fusion"
-author = "Bolte"
+name = "BolteXD"
+author = "BolteXD"
 version = "0.0.1"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
+hash = "00f94c2e9b091b8c6691ce8320bc91e308fb5656bc074b246e5b0df32e79ac4f"
 
 [versions]
-forge = "14.23.0.2486"
+forge = "14.23.5.2859"
 minecraft = "1.12.2"
