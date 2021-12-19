@@ -1,0 +1,13 @@
+name = "bspkrsCore"
+filename = "[1.12.2]bspkrscore-universal-8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2924/423/[1.12.2]bspkrscore-universal-8.0.1.jar"
+hash-format = "murmur2"
+hash = "3401631279"
+
+[update]
+[update.curseforge]
+file-id = 2924423
+project-id = 59218
