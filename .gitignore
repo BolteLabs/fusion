@@ -3,7 +3,6 @@ _MMC_TEMP/
 packwiz.exe
 node_modules/
 run/
-journeymap/
 package.json
 package-lock.json
 manifest.json
