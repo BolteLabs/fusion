@@ -4,5 +4,9 @@
 .gitattributes
 packwiz.exe
 node_modules
-node
+journeymap
+run
 package.json
+package-lock.json
+manifest.json
+*.jar

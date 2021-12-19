@@ -2,5 +2,9 @@
 _MMC_TEMP/
 packwiz.exe
 node_modules/
-node/
+run/
+journeymap/
 package.json
+package-lock.json
+manifest.json
+*.jar
