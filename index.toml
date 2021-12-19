@@ -109,6 +109,358 @@ file = "icon.png"
 hash = "c3122c3f35cf94a5dd6cfc426a7f2e3d1a095a89da7283a82be75288ec763cd1"
 
 [[files]]
+file = "journeymap/config/5.7/journeymap.core.config"
+hash = "8ea8bd56ddeed410928e8dc7192373168521672e7ba809ef19c5b041618a7d2c"
+
+[[files]]
+file = "journeymap/config/5.7/journeymap.fullmap.config"
+hash = "757d43ff471f5f1631d061533296ebbb09fd2cd774c9fd056704eb7a871984ae"
+
+[[files]]
+file = "journeymap/config/5.7/journeymap.minimap.config"
+hash = "2ffb326988ed2ca18aca24b805ed60236fc3cc0278e3219f226d4765fac7c4de"
+
+[[files]]
+file = "journeymap/config/5.7/journeymap.minimap2.config"
+hash = "29a0090e1e603e4846cc66b45ea17bea57c37cd99367e0298d5d3662ac730eb8"
+
+[[files]]
+file = "journeymap/config/5.7/journeymap.topo.config"
+hash = "cbeadc94869091efb677100595b1778158783af4ad734ea1e29d4d0b3fa9cec9"
+
+[[files]]
+file = "journeymap/config/5.7/journeymap.waypoint.config"
+hash = "6066684d836a82a3428d043b2466df68eadd2f0dd0c6ae1c6b068cc6cfd4cf5c"
+
+[[files]]
+file = "journeymap/config/5.7/journeymap.webmap.config"
+hash = "dc763d06fd7d880539a3b015eca5ff3548836e7ed22073b9e605c4024400db24"
+
+[[files]]
+file = "journeymap/icon/theme/default.theme.config"
+hash = "21af30bf8e646b63fdc52a25e1dc0eb20ffa0085d688767e424333d767be8629"
+
+[[files]]
+file = "journeymap/icon/theme/flat/DesertTemple.theme2.json"
+hash = "3fbea9b4f7a132c50c2225f66e31bcc0421abee5ebf4d0faa2ce70055921ccd2"
+
+[[files]]
+file = "journeymap/icon/theme/flat/EndCity.theme2.json"
+hash = "aa20458b3eb842261db12d9ce79509284049021bf8d9624ed1b17e6a43e891cf"
+
+[[files]]
+file = "journeymap/icon/theme/flat/ForestMansion.theme2.json"
+hash = "8c3305e78ac46c4b8a7b84ab4e0707ff4ed9b8011c3e34c153c7ba175864887e"
+
+[[files]]
+file = "journeymap/icon/theme/flat/NetherFortress.theme2.json"
+hash = "ca6f39a57b624ac3a02500a1bcc7671b8d09d0e350b44dde5141f3a1ea833a77"
+
+[[files]]
+file = "journeymap/icon/theme/flat/OceanMonument.theme2.json"
+hash = "174ac660305e06603087f3caa2fd64e3c7bd486a02a5a07723e88c63cf271475"
+
+[[files]]
+file = "journeymap/icon/theme/flat/Purist.theme2.json"
+hash = "d32aa0552005de366508699916035f5cc3a8e126114adf064d3cfd0086f9cad2"
+
+[[files]]
+file = "journeymap/icon/theme/flat/Stronghold.theme2.json"
+hash = "70ac933ca3a16895c3826edfac645e6eec2f2b3de07dd86da7c7005157e4b824"
+
+[[files]]
+file = "journeymap/icon/theme/flat/container/htoolbar_begin.png"
+hash = "bc8e966e662dae481ce2913e7fe0f62b60e8434a3b7bf2a1a642191e13b97776"
+
+[[files]]
+file = "journeymap/icon/theme/flat/container/htoolbar_end.png"
+hash = "bc8e966e662dae481ce2913e7fe0f62b60e8434a3b7bf2a1a642191e13b97776"
+
+[[files]]
+file = "journeymap/icon/theme/flat/container/htoolbar_inner.png"
+hash = "4e9e98131151023530d5a43d33876f84081bfefb9556ba2463bed1ade05540e8"
+
+[[files]]
+file = "journeymap/icon/theme/flat/container/vtoolbar_begin.png"
+hash = "46d97ea83ebb551a27b0fa9fbd9424067ebd0736623569171441c99b50cea2d1"
+
+[[files]]
+file = "journeymap/icon/theme/flat/container/vtoolbar_end.png"
+hash = "46d97ea83ebb551a27b0fa9fbd9424067ebd0736623569171441c99b50cea2d1"
+
+[[files]]
+file = "journeymap/icon/theme/flat/container/vtoolbar_inner.png"
+hash = "4e9e98131151023530d5a43d33876f84081bfefb9556ba2463bed1ade05540e8"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_button_disabled.png"
+hash = "83d32ff15aa0e8f45148de3a3a5ccd71b444feffe87397607483154e3b7c0ae4"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_button_hover.png"
+hash = "83d32ff15aa0e8f45148de3a3a5ccd71b444feffe87397607483154e3b7c0ae4"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_button_off.png"
+hash = "83d32ff15aa0e8f45148de3a3a5ccd71b444feffe87397607483154e3b7c0ae4"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_button_on.png"
+hash = "83d32ff15aa0e8f45148de3a3a5ccd71b444feffe87397607483154e3b7c0ae4"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_toggle_disabled.png"
+hash = "b8b2aa7682e94d278638afd7682a1b2aebfea4b334af37e81f287ace04373f83"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_toggle_hover.png"
+hash = "692595968d043f271614f05fad795a25a4c9a049a1721650433f192d37e64ada"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_toggle_off.png"
+hash = "b8b2aa7682e94d278638afd7682a1b2aebfea4b334af37e81f287ace04373f83"
+
+[[files]]
+file = "journeymap/icon/theme/flat/control/flat_toggle_on.png"
+hash = "f5ba4168b5cb5f716b03e20c8804e95d978ed88cf6131427b9d6adcbfe46087c"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/about.png"
+hash = "4c0c86e6c26ff59f62d0fb9950bf4a941ee68a162e1c2e0ceddd23be2162a051"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/actions.png"
+hash = "c2b542e624984c33ba16fe6a098554b49f341967a752944e7e269fdcb71c2429"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/alert.png"
+hash = "983586f9f7921d2726ac2a53c232d06d722949fa77e157c1a7d98432c6dfc3e1"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/animals.png"
+hash = "f69dd9243bd212c311a2341d872b8e79eb3a7ec3b494f33e9eb2affde504984b"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/automap.png"
+hash = "07cc0644f9f73540edc4615a458467eb74474b7554c0d6f5de0507703e9a77cf"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/biome.png"
+hash = "58ce31b54f7b1b24c0a027e2c862767ef2b6cf52912f4abdc2adc4054a27ddb3"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/browser.png"
+hash = "ff65bb724a08e5349e95a3454b7cc9a139fa8d45a78237796f31cbd33a635892"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/caves.png"
+hash = "8c38e6593c9ca8a297447361828c000153a609479472350006306676e37ca290"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/close.png"
+hash = "b09d503f492134f700c50c73fc9ceefdda16134e0edf8ecc45198beae4fc6d9e"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/day.png"
+hash = "2452de72b9e65a58030ca20dc2f65105d383da9b923eaf84f4c09d6b30ca1d3c"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/delete.png"
+hash = "7794415179dd56bb063e7629591ddd13e3f2945fc57f6ee794b6d5fa18fdae47"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/disable.png"
+hash = "66f320dae8440322ce73afc2844873855fd42b5fb2e235b4c24f76ae43f293ac"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/follow.png"
+hash = "47ebd2bba7b67408bb0445f48f83a45258bc2ebfa4bb42a33083a36db972e9ba"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/grid.png"
+hash = "889a0c720d702243e39a7aab3af3a3df1ba13b8366c1c3c5cd2624d26c778cba"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/keys.png"
+hash = "e5adb9816ef232c459913cb943082a13d5f67b2f55299ab442c98bb16da8dfa1"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/layers.png"
+hash = "936372844d875f348d9615b3714fc5dd800d943928bac6531ad873af856d624d"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/monsters.png"
+hash = "b2962a9f3e435446a08dc7aace83c0eef320f482922dcc7f90f0c98c0539c7a5"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/night.png"
+hash = "13372b9c000b9395fed397268d756dd8f10b6793690a954c65eed5c4066d79fb"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/options.png"
+hash = "28536bc300859895c84561bb0608e100665ea6c162da937e6095fe10f558ce1c"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/pets.png"
+hash = "ce213a4aa78e802d1e87518079201d58269231f07166839d9e75718760fe1336"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/players.png"
+hash = "5556bc88f910cc607588aedaffefdafc6a969d904ff77333498488f20b9b72f4"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/reset.png"
+hash = "e3c62c43cfd56b77b7d9bbafe772d21af1010f891640871b8996227317f689e8"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/savemap.png"
+hash = "da43846b1c2565f5050f1c69827535666a2ed10f1d3b1ecdd65bf2016b02c24b"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/search.png"
+hash = "217079791a266e397ab22b81418a4ea116e1803fdcd8b66692f027f59921441c"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/server.png"
+hash = "210a9eecb61a36b137964c7d7bdbccdd3a50e713f9d2e14af25dd5dbf339d125"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/theme.png"
+hash = "5aa4afea08b0983911490d2ea9f8ac95ac6520611d3093cd54a0c2db58ac1b5d"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/topo.png"
+hash = "9f298c043afab05d762a18d6bae4a25155937f6d2806e4f356466f6cd1d5ca01"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/villagers.png"
+hash = "42f7fb610e73eefedaab909d5ef3e72902066c9fe89c41451d08dc1029619450"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/waypoints.png"
+hash = "1df53677cb2dcfc5c876a062b81000695a770e97d492bfd03467e8d8e79f1d10"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/zoomin.png"
+hash = "1eab60c1b3d19355c9ed3a936ea748aded40b1612a5a3a184e9065ed0134c09c"
+
+[[files]]
+file = "journeymap/icon/theme/flat/icon/zoomout.png"
+hash = "76dbdca4e02d0babb60f51b7e47ac85196b8b11f38922065d0f1f33905afae65"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png"
+hash = "2ec50be3a53372110fd726f20b53c35b254b91aeda2ec692630ee5864d268b4f"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png"
+hash = "d45cc0ea6a7bf2f66bc57f982704a713299f2f2e8836362c0da2f99e095424e2"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png"
+hash = "c1d5583ac56ad87938cd2d7a385766277c4ca57e49563c5787a9f412ab57f4ea"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png"
+hash = "16f249791b986c0cd021de987f64cf59c36cc8c501727817a941942aeace2915"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png"
+hash = "ed890971359a4bcb5702f6c230c20c93dc30c4a6c709879256c39522cec03261"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png"
+hash = "2e577e98bc9b5a37434d5b446e290d814264f2389c50f0b815bd8c67ce537e53"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png"
+hash = "0bded5ef2d8ac502c21338c2fcdf413eb43f78923949d6e363d25d56380a82f9"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png"
+hash = "0f74c82f31451f880ef0d90a8a566b02b5f3304ebd50cb24234da5d8527c56ca"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png"
+hash = "5fb8ebd32460266dd14a59a3e1986b6438131c1d2e751496bec3f8a7ec042a8e"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png"
+hash = "ca24f18c51c76b646daa598ca4438f89a83d684e151a77e9de16134d2e235c2f"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_bottom.png"
+hash = "0ed5af808f8f5f03cb4c7faf373e6d0a1b630cd08b23de1c9972f83d5e588f15"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png"
+hash = "2114d16ad8ca024c022fa74baa05305d569b3f5411e38c0f7598bb5d8f615acb"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_bottomright.png"
+hash = "e601888a5731292294b34a02afbbf6c9feffa84b323a37f3c8db798bbfcee46c"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_compass_point.png"
+hash = "beda592f3784f1263f372d6cc2f0d96ab0b44eb0f413a9b2b53bdffc0741a2c8"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_left.png"
+hash = "8adc7d1cf82ff67f3a89f57a04c122c3247eac7b4745b324489c4dd38cce1de3"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_right.png"
+hash = "df82f5728a76c1e5444d927fc8abbdc4f6dce2f8af69b91e0c20bb0107a67d0e"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_top.png"
+hash = "325914f3f24630c3d0fd5c8913dda5c756c6e223cdea9d10c2edf8bbb5cb5451"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_topleft.png"
+hash = "1c536d3bd14cb7d97c2a1c65bd5bd4eb97e37021e0e9ff7509f14ee12656ee1e"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/flat_topright.png"
+hash = "8bd7546ab31d772403040589a7d245ee0355b2d55a6f490b97dd2097a6394969"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_bottom.png"
+hash = "9c872d98dac4d8391088710c621d741dbab8259b956d7c6d04c5fa3eac6e1bad"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png"
+hash = "2d43664a74f98a5f79ff649757640eb3f45c64f6b5fa7b39b59b2d1bded8b9b2"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_bottomright.png"
+hash = "8b36b22cd5d89cdfaca944d18c791f77c525234efa8c6397d7bc9a0eb3f02e8c"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_compass_point.png"
+hash = "beda592f3784f1263f372d6cc2f0d96ab0b44eb0f413a9b2b53bdffc0741a2c8"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_left.png"
+hash = "52c056947aba9e6eddad0629f00a5047e652e2b4c4c2dcd93029639c1d1e4a54"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_right.png"
+hash = "05a92d917a534561d495f14cd3ea90d6228fb8f625dcb429bd8975d2c50f2450"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_top.png"
+hash = "c9aad7b0b00e2becede24938f9b96e3143c0ec168294e8f232f3c7389b50416d"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_topleft.png"
+hash = "80ef5b6d0f012cf6b3f231b7a397285e5ea895a1527f4d86acbe1e79f905c1b7"
+
+[[files]]
+file = "journeymap/icon/theme/flat/minimap/square/pur_topright.png"
+hash = "7583ad283f7df4e47893d1081eed19da4c09cdeeb22f6378b2f5b012ea532320"
+
+[[files]]
 file = "mods/ai-improvements.toml"
 hash = "0eb176e40267bae446449c194e67f181582a47c9fa029fff8a58285edd55e14d"
 metafile = true
