@@ -3,9 +3,9 @@
 .gitignore
 .gitattributes
 packwiz.exe
-node_modules
+node_modules/**
 journeymap
-run
+run/**
 package.json
 package-lock.json
 manifest.json
