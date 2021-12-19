@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/UniqueNames.txt"
+hash = "e084fc341f9bdd0d8d86601d7cce9e7273d37e9cfb66e5ad315219c83f5ceb8b"
+
+[[files]]
 file = "config/bbm/AI_Improvements.cfg"
 hash = "6f5906deab8573023f5b5c34c4979f182e24187350b6c053ffa8035c3fe4d1f0"
 
 [[files]]
+file = "config/bspkrscore.cfg"
+hash = "2b0c43661420094e5c85bbd30473d21c91ac1cb3b603b818a5d0575ba647e4c9"
+
+[[files]]
 file = "config/fastbench.cfg"
 hash = "a26f49d7f948b89f125b7a5a110445029a683a33be2d7d3ed2d7eb130ce0c8a8"
+
+[[files]]
+file = "config/fastleafdecay.cfg"
+hash = "5a8c5caee6f90244b51ae5d56d7fa9fbdd98506cb04804092e1536c6b341535b"
 
 [[files]]
 file = "config/foamfix.cfg"
@@ -30,11 +42,15 @@ hash = "4b27c6215105458d0910d8b3a994bec33c0c2bb1ab34e5fd5a48489f2b84dfda"
 
 [[files]]
 file = "config/splash.properties"
-hash = "8f08199bafe818a4115c6823792c831a3d8e4494e50fb88e31fc2f5efebfc5a7"
+hash = "a7660fcabc618e900d023ec0f5fb01aa0d00837047196ec540285c394e62ca1c"
 
 [[files]]
 file = "config/surge.cfg"
 hash = "b716388ce1514fdb76749312c7c82649413e85b0364c584d68e88574c5afd27d"
+
+[[files]]
+file = "config/treecapitator.cfg"
+hash = "4cbd86ae6e281d1698de31904527cff86d9174592b388697f6dcaac96a48fcb7"
 
 [[files]]
 file = "config/vanillafix.cfg"
@@ -55,11 +71,6 @@ hash = "c3122c3f35cf94a5dd6cfc426a7f2e3d1a095a89da7283a82be75288ec763cd1"
 [[files]]
 file = "mods/ai-improvements.toml"
 hash = "0eb176e40267bae446449c194e67f181582a47c9fa029fff8a58285edd55e14d"
-metafile = true
-
-[[files]]
-file = "mods/bspkrscore.toml"
-hash = "43eae37587c6b8e213ce4e6902126952a4bf64bc80cdaab22ca4c4ba01c8ec3d"
 metafile = true
 
 [[files]]
@@ -105,11 +116,6 @@ metafile = true
 [[files]]
 file = "mods/surge.toml"
 hash = "f7b5fbc4bfcc0564b66e0855170d7de9b9c08d7f742a9e132c0f7020c958b56b"
-metafile = true
-
-[[files]]
-file = "mods/treecapitator-updated.toml"
-hash = "ee2ba674bcd9f712c0cbdde19b5b08f4dc7967412b14d4e8641004b8a1d3a838"
 metafile = true
 
 [[files]]
@@ -1282,8 +1288,12 @@ file = "run/actions/add.js"
 hash = "c68d86ea1858813269ea3f5e98f5dd41f86adb6c1ee4e0aaab59196af100580e"
 
 [[files]]
-file = "run/actions/deploy.js"
-hash = "36a290b2e32043ef12d901ab9effa01ff5ce11114a2f8007a304df352d99ed53"
+file = "run/actions/prepare.js"
+hash = "a81bf5eebe54cdadfc5b2e9c6eded6d268604274109faf161aeb837289d9532f"
+
+[[files]]
+file = "run/actions/publish.js"
+hash = "b3b06962a0826280fc9c10a1916ef45253231678f987d104850b0399bc475910"
 
 [[files]]
 file = "run/actions/remove.js"
