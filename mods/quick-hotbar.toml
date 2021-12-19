@@ -1,0 +1,13 @@
+name = "Quick Hotbar"
+filename = "quickhotbar_1122_1.05.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2654/800/quickhotbar_1122_1.05.jar"
+hash-format = "murmur2"
+hash = "4097155923"
+
+[update]
+[update.curseforge]
+file-id = 2654800
+project-id = 228742

@@ -1,0 +1,13 @@
+name = "Item Scroller"
+filename = "itemscroller-1.12.2-0.12.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2581/199/itemscroller-1.12.2-0.12.0.jar"
+hash-format = "murmur2"
+hash = "3088012709"
+
+[update]
+[update.curseforge]
+file-id = 2581199
+project-id = 242064

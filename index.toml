@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/appleskin.cfg"
+hash = "27fdd990f5cc4d5f8da3a8cd189a26dc50158edfd32ac633a9b82729c33ad317"
+
+[[files]]
 file = "config/bbm/AI_Improvements.cfg"
 hash = "6f5906deab8573023f5b5c34c4979f182e24187350b6c053ffa8035c3fe4d1f0"
 
@@ -25,6 +29,46 @@ file = "config/forgeChunkLoading.cfg"
 hash = "95b66df0da7df0be35ccbc51ad08962b7ddba14f593f0428096547d67fed2378"
 
 [[files]]
+file = "config/itemscroller.cfg"
+hash = "9feb51555f1083624c490a388475b44ed7ecf728b90ab69bf2b9659bd45bf56a"
+
+[[files]]
+file = "config/jei/itemBlacklist.cfg"
+hash = "41ab5806db8d5e1c3ce04d36dc8564cc8a21d33dcc0945b3903df0f2a9c68d86"
+
+[[files]]
+file = "config/jei/jei.cfg"
+hash = "b846de5d4b87cc0b6b8ede93f80a16b8961075d5ff675eeebf5c5ef28eb75a1b"
+
+[[files]]
+file = "config/jei/searchColors.cfg"
+hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
+
+[[files]]
+file = "config/jei/worldSettings.cfg"
+hash = "5661667c435fb50c0e9b5fc1d5df1d7baf1a4ebe8f11d2beb7766b329c6c032d"
+
+[[files]]
+file = "config/jeiintegration.cfg"
+hash = "705e08d1528fd5e63de645ddd8989c6ee732ca588d319fa77078173f92b6e779"
+
+[[files]]
+file = "config/jeresources/jeresources.cfg"
+hash = "89a554fa03284ed83867e2876bcebc7a2ff80e915d6bfa6938bda51d4894ea57"
+
+[[files]]
+file = "config/journeymap_ModInfo.cfg"
+hash = "cb2068ea80c735ba0bbf68a4c45cbbea9c9fba5b3afe1c4276baa19a53b083cd"
+
+[[files]]
+file = "config/journeymap_server.cfg"
+hash = "bfd7c39f740bf5008fb0dc55e1b140d7436f47c57775f5a0fee9721db56229bc"
+
+[[files]]
+file = "config/justenoughbuttons.cfg"
+hash = "dc8051349f8d397edfcbc32a81a8ec516a91a624e1434242f192cd464f7ab0fe"
+
+[[files]]
 file = "config/performant.cfg"
 hash = "0f1af1fd95f5624e37be5dc22dfb3eae9d5c27989de8dded1d92c9b791e4bd15"
 
@@ -33,8 +77,16 @@ file = "config/phosphor.json"
 hash = "4b27c6215105458d0910d8b3a994bec33c0c2bb1ab34e5fd5a48489f2b84dfda"
 
 [[files]]
+file = "config/pickupnotifier.cfg"
+hash = "d72b916c8faf2c7b90e29f14f94b524853c84b474611979237bfe1ce9ab91968"
+
+[[files]]
+file = "config/quickhotbar.cfg"
+hash = "463f0e9563c0f10d8596d8a0b40420a60b852a14d1215e41670733d84800b72b"
+
+[[files]]
 file = "config/splash.properties"
-hash = "a7660fcabc618e900d023ec0f5fb01aa0d00837047196ec540285c394e62ca1c"
+hash = "938e9f5457a7dfeb87e7bfdf2b996aa4f5b73354b25df05accfc29e37a93e4d2"
 
 [[files]]
 file = "config/surge.cfg"
@@ -62,6 +114,11 @@ hash = "0eb176e40267bae446449c194e67f181582a47c9fa029fff8a58285edd55e14d"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.toml"
+hash = "17c039f61ca9d1b55c3c717be2f0d88ef81a2811bbe4e7e9c4f956a4531ea445"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.toml"
 hash = "47c047df9320d5a336ef384e1348933494c1139453e7dc7139bfccd825757769"
 metafile = true
@@ -77,8 +134,43 @@ hash = "2ffb84b78edba5e76151a2c8810b28a76f3d4bcef7c9a868940b41c2c42167a8"
 metafile = true
 
 [[files]]
+file = "mods/item-scroller.toml"
+hash = "8bf33fcea22bf57be999772edd68dc355949213cddb95e32e82c819bec807375"
+metafile = true
+
+[[files]]
+file = "mods/jei-integration.toml"
+hash = "333250b987b9d2b90350d25e47c62d51cb21a52a458e002c8d2fb752c3ad4db7"
+metafile = true
+
+[[files]]
+file = "mods/jei.toml"
+hash = "d9161a828947d36bb5002a23ac87441ff13374a96e594541e24a703bbb644cc4"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.toml"
+hash = "635cf30a416558f4f851fdf94690b05c5cbd6cdab4f62e99e0d3d6fc003bb07f"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-buttons.toml"
+hash = "20cfd08c588bef3f2af2bd7fe6b514f71dca4258e2a8758d4d0a97906c311225"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.toml"
+hash = "b0b82537cab9d9686f7c4b7f208dfd390a44dd8eadaaa6b700bc87518abe2a9d"
+metafile = true
+
+[[files]]
 file = "mods/mixin-0-7-0-8-compatibility.toml"
 hash = "3d3da2b74324281b048def8be93294b0e6f159d0cf0fd8ff9ad27353bc057f8f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.toml"
+hash = "5919aa4d15135ecf8e973201ee5fb6b39e1e212d165566d423d412d9b4630a2a"
 metafile = true
 
 [[files]]
@@ -99,6 +191,16 @@ metafile = true
 [[files]]
 file = "mods/phosphor-forge.toml"
 hash = "028a1ed19515278abf1084316404866c0f67e155c3f67f103cf9f69c88452dd9"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.toml"
+hash = "ffedc6e9a2d415abc1d8e20de03ed9cb9be2ea25a2632717af28716de6c469d0"
+metafile = true
+
+[[files]]
+file = "mods/quick-hotbar.toml"
+hash = "8ad5ba9054c10128dc09be6db17df69f6850b5b539c92f8eab4bf3678be78e5f"
 metafile = true
 
 [[files]]
